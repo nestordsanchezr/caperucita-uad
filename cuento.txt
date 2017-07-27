@@ -1,8 +1,13 @@
 ﻿Hola mundo. Habia una vez una niña con una caperuza.
 AHHHHHHHHHHH!!!!!
+<<<<<<< HEAD
 
 Max Maldonado: El cuento de capuerza la pelirroja. Caperucita es muy bonita, ... demasiado, demasiado, demasiado..... yumi, yumi... bonita. B)
 
 Erase una vez, una niñita con una caperuza roja, a quien la conocian como "caperucita roja" (¿por que asi? quien sabe, nadie se sabe su nombre real).
 Caperucita roja tenia que ir a visitar a su abuela, quien vive al otro lado del bosque, asi que se embarco en un viaje hacia sua abuela.
 
+=======
+Erase una vez, una niñita con una caperuza roja, a quien la conocian como "caperucita roja" (¿por que asi? quien sabe, nadie se sabe su nombre real).
+Caperucita roja tenia que ir a visitar a su abuela, quien vive al otro lado del bosque, asi que se embarco en un viaje hacia sua abuela.
+>>>>>>> ad7b942d469834dbfce60b737a6f4608f21dd96b
